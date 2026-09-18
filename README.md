@@ -25,7 +25,7 @@
   </tr>
   <tr>
     <td width="50" align="center" valign="top">
-      <img src="https://raw.githubusercontent.com/ViviRoxEsqCas/ViviRoxEsqCas/main/assets/img/personal.jpeg" width="40" alt="Vivi">
+      <img src="https://raw.githubusercontent.com/ViviRoxEsqCas/ViviRoxEsqCas/main/assets/img/personal.png" width="40" alt="Vivi">
     </td>
     <td valign="top">
       <b>➤ personal vivi:</b><br>
@@ -34,7 +34,7 @@
   </tr>
   <tr>
     <td width="50" align="center" valign="top">
-      <img src="https://raw.githubusercontent.com/ViviRoxEsqCas/ViviRoxEsqCas/main/assets/img/profesional.jpeg" width="40" alt="Professional Vivi">
+      <img src="https://raw.githubusercontent.com/ViviRoxEsqCas/ViviRoxEsqCas/main/assets/img/profesional.png" width="40" alt="Professional Vivi">
     </td>
     <td valign="top">
       <b>➤ profesional vivi:</b><br>
@@ -43,7 +43,7 @@
   </tr>
   <tr>
     <td width="50" align="center" valign="top">
-      <img src="https://raw.githubusercontent.com/ViviRoxEsqCas/ViviRoxEsqCas/main/assets/img/personal.jpeg" width="40" alt="Vivi">
+      <img src="https://raw.githubusercontent.com/ViviRoxEsqCas/ViviRoxEsqCas/main/assets/img/personal.png" width="40" alt="Vivi">
     </td>
     <td valign="top">
       <b>➤ objetivos:</b><br>
@@ -52,7 +52,7 @@
   </tr>
   <tr>
     <td width="50" align="center" valign="top">
-      <img src="https://raw.githubusercontent.com/ViviRoxEsqCas/ViviRoxEsqCas/main/assets/img/profesional.jpeg" width="40" alt="Professional Vivi">
+      <img src="https://raw.githubusercontent.com/ViviRoxEsqCas/ViviRoxEsqCas/main/assets/img/profesional.png" width="40" alt="Professional Vivi">
     </td>
     <td valign="top">
       <b>➤ intereses:</b><br>
@@ -98,7 +98,7 @@
   <tr>
     <td align="center">
       <br>
-      <img src="https://skillicons.dev/icons?i=github,git,vscode,visualstudio,unity,blender,postgres,sqlite,python,flask,cs,php,js,html,css" alt="Tools and technologies">
+      <img src="https://skillicons.dev/icons?i=github,git,vscode,visualstudio,unity,postgres,sqlite,python,flask,php,js,html,css" alt="Tools and technologies">
       <br><br>
     </td>
   </tr>
